@@ -2,15 +2,14 @@
 
 A minesweeper game that runs on an Arduino Due and is controlled by a USB mouse instead of touch-screen
 
-## Opening
+## Usage
 
 1. Download/clone the repository
-2. Rename the folder to `Minesweeper`
-3. Open `Minesweeper.ino` in Arduino IDE
-4. Chose 'Arduino Due' as board and select the right port
-5. Upload the app to Arduino Due
-6. Connect a USB mouse to Arduino Due native USB port using USB OTG connector
-7. Enjoy the game!
+2. Open `minesweeper-for-Arduino.ino` in Arduino IDE
+3. Chose 'Arduino Due' as board and select the right port
+4. Upload the app to Arduino Due
+5. Connect a USB mouse to Arduino Due native USB port using USB OTG connector
+6. Enjoy the game!
 
 ## Hardware required
 
